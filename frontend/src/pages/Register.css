@@ -1,0 +1,47 @@
+.register-form {
+    max-width: 28rem;
+    /* Tailwind's max-w-md */
+    margin: 2.5rem auto 0 auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.register-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.register-error-general {
+    color: #dc2626;
+    /* red-600 */
+    margin-bottom: 0.5rem;
+}
+
+.register-input {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+.register-error {
+    color: #ef4444;
+    /* red-500 */
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+}
+
+.register-button {
+    background-color: #16a34a;
+    /* green-600 */
+    color: white;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    margin-top: 0.5rem;
+    border: none;
+    cursor: pointer;
+}
