@@ -31,6 +31,7 @@ A modern, full-stack task management application designed to help users create, 
 
 ## 🖥️ Folder Structure
 
+```bash
 backend/
 ├── config/                           # Configuration files
 │   └── db.js                         # Database connection setup
@@ -70,7 +71,7 @@ frontend/
 │   ├── index.css                     # Tailwind and custom base styles
 │   └── main.jsx                      # Application entry point
 
-
+```
 
 # Here's how the flow works:
 
